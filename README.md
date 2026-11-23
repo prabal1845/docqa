@@ -5,7 +5,7 @@ A retrieval-augmented generation (RAG) app: a **FastAPI + PostgreSQL/pgvector + 
 Users upload PDFs. The service extracts, chunks, and embeds them in the background. Questions are answered
 **only** from the user's own documents, and each answer cites the file and page it used.
 
-![CI](https://github.com/<your-username>/docqa/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/prabal1845/docqa/actions/workflows/ci.yml/badge.svg)
 
 ## Features
 
